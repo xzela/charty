@@ -1,0 +1,22 @@
+{
+  "name": "charty",
+  "version": "0.0.1",
+  "description": "charty arty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xzela/charty.git"
+  },
+  "keywords": [
+    "charts"
+  ],
+  "author": "xzela@pm.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xzela/charty/issues"
+  },
+  "homepage": "https://github.com/xzela/charty#readme"
+}
