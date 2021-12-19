@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/xzela/charty/issues"
   },
-  "homepage": "https://github.com/xzela/charty#readme"
+  "homepage": "https://github.com/xzela/charty#readme",
+  "devDependencies": {
+    "eslint-config-azido": "1.x"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.19"
+  }
 }
